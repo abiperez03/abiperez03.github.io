@@ -6,29 +6,25 @@ El propósito de esta página web es mostrar el portafolio de proyectos de un(a)
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
-### Capturas de pantalla:
+## Capturas de pantalla:
 
-Primera parte de la página web:
+### Primera parte de la página web:
 
 <img width="1070" alt="image" src="https://github.com/abiperez03/abiperez03.github.io/assets/135566458/514ac61d-330e-4145-b78f-a1238e192e2f">
 
-
-Experiencia:
+### Experiencia:
 
 <img width="1068" alt="image" src="https://github.com/abiperez03/abiperez03.github.io/assets/135566458/975631ac-b47c-4ac4-864f-0cbfa5d99784">
 
-
-Proyectos:
+### Proyectos:
 
 <img width="1067" alt="image" src="https://github.com/abiperez03/abiperez03.github.io/assets/135566458/b474d65c-b6f4-4111-8d3d-5e4819f55112">
 
-
-Testimonios:
+### Testimonios:
 
 <img width="1070" alt="image" src="https://github.com/abiperez03/abiperez03.github.io/assets/135566458/19e553e2-5979-4c83-8b9b-077d0e77360e">
 
-
-Contacto:
+### Contacto:
 <img width="1066" alt="image" src="https://github.com/abiperez03/abiperez03.github.io/assets/135566458/29bd99a4-f2b6-413b-b6af-e2071c323411">
 
 
